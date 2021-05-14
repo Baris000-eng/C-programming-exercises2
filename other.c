@@ -65,7 +65,7 @@ int min_of_numbers(int *array, int count)
 			minimumNumber= array[i];//assigning the minimumNumber to that item
 		}
 	}
-	return maximumNumber;
+	return minimumNumber;
 }
 
 
